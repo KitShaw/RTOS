@@ -1,5 +1,4 @@
 .\objects\usart.o: Hal\usart\usart.c
-.\objects\usart.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\usart.o: .\Hal\system.h
 .\objects\usart.o: d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
 .\objects\usart.o: .\Lib\CMSIS\CM3\CoreSupport\core_cm3.h
@@ -31,3 +30,12 @@
 .\objects\usart.o: .\Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\usart.o: .\Lib\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\usart.o: Hal\usart\usart.h
+.\objects\usart.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\usart.o: .\FreeRTOS\include\FreeRTOS.h
+.\objects\usart.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\usart.o: .\FreeRTOS\include\FreeRTOSConfig.h
+.\objects\usart.o: .\FreeRTOS\include\projdefs.h
+.\objects\usart.o: .\FreeRTOS\include\portable.h
+.\objects\usart.o: .\FreeRTOS\include\deprecated_definitions.h
+.\objects\usart.o: .\FreeRTOS\portable\RVDS\ARM_CM3\portmacro.h
+.\objects\usart.o: .\FreeRTOS\include\mpu_wrappers.h

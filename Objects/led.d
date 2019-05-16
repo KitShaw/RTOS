@@ -30,3 +30,4 @@
 .\objects\led.o: .\Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\led.o: .\Lib\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\objects\led.o: Hal\led\led.h
+.\objects\led.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

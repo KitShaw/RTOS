@@ -67,7 +67,7 @@ void key_task(void)
 		{
 			if(++k_up_count > 10)
 			{
-				led_task();
+				//led_task();
 				printf("k_up");
 				k_up_flag = 1;
 			}
@@ -85,7 +85,7 @@ void key_task(void)
 		{
 			if(++k_down_count > 10)
 			{
-				led_task();
+				//led_task();
 				printf("k_down");
 				k_down_flag = 1;
 			}
@@ -103,7 +103,7 @@ void key_task(void)
 		{
 			if(++k_right_count > 10)
 			{
-				led_task();
+				//led_task();
 				printf("k_right");
 				k_right_flag = 1;
 			}
@@ -121,7 +121,7 @@ void key_task(void)
 		{
 			if(++k_left_count > 10)
 			{
-				led_task();
+				//led_task();
 				printf("k_left");
 				k_left_flag = 1;
 			}
